@@ -1,6 +1,6 @@
-- name: Home
+- name: Home2
   link: /index.md
-- name: About
+- name: About2
   link: /about.html
-- name: Blog
+- name: Blog2
   link: /blog.html
