@@ -1,9 +1,5 @@
 ## Hello Hello 1211
 
-{% highlight language linenos %}
-your code here
-
-{% endhighlight %}
 
 ```json
 {
